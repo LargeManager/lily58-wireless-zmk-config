@@ -66,7 +66,7 @@
 &trans          &kp Q         &kp W         &kp E         &kp R         &kp T                           &kp N6       &kp N7     &kp N8     &kp N9    &kp N0     &trans
 &trans          &kp A         &kp S         &kp D         &kp F         &kp G                           &trans       &kp LEFT   &kp DOWN   &kp UP    &kp RIGHT  &trans
 &kp LEFT_SHIFT  &kp Z         &kp X         &kp C         &kp V         &kp B      &trans       &trans  &kp KP_PLUS  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT   &kp BSLH
-                                            &trans        &mo 3         &kp LCTRL  &kp SPACE    &trans  &trans       &trans     &tog 0
+                                            &trans        &mo 3         &kp LCTRL  &kp SPACE    &trans  &trans       &trans     &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
